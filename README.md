@@ -1,4 +1,4 @@
-# Hi, I'm Tanuja 👋
+# Hi, I'm Tanuja Nair
 
 I'm a Data Scientist, currently pursuing my B.S. in Data Science and Applications at **IIT Madras**.
 
