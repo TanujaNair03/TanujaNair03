@@ -46,7 +46,7 @@ Here is a selection of projects I've worked on. *(Note: Many professional projec
 * **Description:** Developed a classification model to predict ancient inscription origins within a constrained NLP Kaggle environment.
 * **Result:** Ranked **6th of 122+** (Top 5%) in the competition.
 * **Tech:** Python, Scikit-learn, TensorFlow, NLP
-* **Link:** **[View on GitHub]** (Upload this project and link it here!)
+
 
 ### 5. "Cost to Serve" BI Dashboard (Nestlé)
 * **Description:** Built a "Cost to Serve" Power BI dashboard to identify granular cost optimization opportunities. This tool is now being **implemented Pan-India** to shape sales strategies.
@@ -57,7 +57,7 @@ Here is a selection of projects I've worked on. *(Note: Many professional projec
 * **Description:** Created an efficient feature and modeling pipeline to predict bank term deposit adoption.
 * **Result:** Ranked in the **Top 2% of 1300+** students for the project.
 * **Tech:** Python, Scikit-learn, Feature Engineering
-* **Link:** **[View on GitHub]** (Upload this project and link it here!)
+
 
 ### 7. Finance Learning App for Children
 * **Description:** A web application to teach children about finance, featuring a simple Gemini-powered chatbot and asynchronous task handling.
