@@ -1,8 +1,8 @@
-# Hi, I'm Tanuja Nair
+# Hi, I'm Tanuja Nair 👋
 
-I'm a Data Scientist, currently pursuing my B.S. in Data Science and Applications at **IIT Madras**.
+I'm a **Data Scientist**, currently pursuing my B.S. in Data Science and Applications at **IIT Madras**. 
 
-I am passionate about building end-to-end ML systems, deriving insights from large-scale data, and creating data-driven products that solve real-world problems. I have professional experience in MLOps, forecasting, fraud detection, and developing BI tools for optimization.
+I am passionate about building end-to-end ML systems, deriving insights from large-scale data, and creating data-driven products that solve real-world problems. My experience spans MLOps, computer vision, forecasting, and fraud detection.
 
 **📫 How to reach me:**
 * **LinkedIn:** [linkedin.com/in/Tanuja_Nair](https://www.linkedin.com/in/tanuja-nair-b36154210/)
@@ -12,59 +12,76 @@ I am passionate about building end-to-end ML systems, deriving insights from lar
 
 ## 🛠️ My Tech Stack
 
-Here are the primary tools and technologies I work with:
-
 * **Languages:** Python (Advanced), SQL (Proficient), R (Proficient), Git
-* **ML & MLOps:** TensorFlow, PyTorch, Scikit-learn, MLflow, Kubeflow, Docker, Kubernetes, CI/CD
-* **Data & Cloud:** GCP, Azure, Spark, Airflow, BigQuery, MySQL, PostgreSQL, MongoDB, Redis
-* **Web:** Flask, Vue.js, Celery, HTML/CSS, JavaScript, Streamlit
-* **BI & Visualization:** Power BI, Tableau
-* **Core Concepts:** A/B Testing, Causal Inference, Predictive Modeling, NLP
+* **ML & MLOps:** TensorFlow, PyTorch, Scikit-learn, MLflow, Kubeflow, Docker, Kubernetes, CI/CD, Fairlearn, SHAP
+* **Data & Cloud:** GCP (GKE, Artifact Registry), Azure, Spark, Airflow, BigQuery, MySQL, PostgreSQL, MongoDB, Redis
+* **Web & Deployment:** Flask, Vue.js, Celery, Streamlit, FastAPI, Gunicorn
+* **BI & Visualization:** Power BI (DAX), Tableau, OpenCV, Supervision
 
 ---
 
 ## 🚀 Featured Projects
 
-Here is a selection of projects I've worked on. *(Note: Many professional projects are on private repositories, but I am happy to discuss their architecture and impact.)*
+### 👁️ Computer Vision & AI
+**1. Cricket Player Tracking & Top-View Projection**
+* **Description:** An advanced CV pipeline to detect players, assign persistent IDs, and project 3D camera coordinates onto a 2D bird's-eye view field map.
+* **Tech:** YOLOv11, ByteTrack, Homography Transformation, OpenCV, Supervision.
+* **Key Feature:** Custom fine-tuned model for specialized poses with a 7-point polygon mask for boundary filtering.
 
-### 1. Gemini RAG Chatbot
-* **Description:** A multi-mode Streamlit chatbot using Google Gemini for both general conversation and Retrieval-Augmented Generation (RAG) for document-specific Q&A.
-* **Tech:** Python, Streamlit, Google Gemini API, RAG
-* **Link:** **[View on GitHub]** (https://github.com/TanujaNair03/gemini-rag-chatbot)
+**2. VisionAssist - Navigation for the Visually Impaired**
+* **Description:** A real-time navigation aid providing auditory feedback about obstacles. Uses a combination of COCO and custom YouTube-sourced datasets.
+* **Tech:** YOLOv8, ByteTrack, gTTS (Google Text-to-Speech), OpenCV.
+* **Impact:** Real-time distance estimation and object tracking for enhanced spatial awareness.
 
-### 2. ML Pipeline for Potential Recall Identification (Ford)
-* **Description:** Engineered an end-to-end ML pipeline to analyze product data from the US market. The system enables the early identification of potential recall events, significantly improving quality control.
-* **Tech:** Python, Scikit-learn, ML Pipelines, CI/CD
+**3. Gemini RAG Chatbot**
+* **Description:** A multi-mode Streamlit chatbot using Google Gemini for general conversation and Retrieval-Augmented Generation (RAG) for document-specific Q&A.
+* **Tech:** Python, Streamlit, Google Gemini API, RAG.
+* **Link:** [View on GitHub](https://github.com/TanujaNair03/gemini-rag-chatbot)
+
+---
+
+### ⚙️ MLOps & Scalable Systems
+**4. Heart Disease Prediction MLOps Pipeline**
+* **Description:** A production-ready healthcare pipeline focusing on **Fairness, Explainability, and Scalability**. 
+* **Tech:** FastAPI, Fairlearn (Bias auditing), SHAP (Explainability), GKE, Prometheus.
+* **Infrastructure:** Fully Dockerized with Horizontal Pod Autoscaling (HPA) and CI/CD via GitHub Actions.
+
+**5. Iris Classification CI/CD Pipeline**
+* **Description:** A complete MLOps workflow demonstrating Continuous Integration and Deployment to Google Kubernetes Engine.
+* **Tech:** GKE, Google Artifact Registry, DVC, GitHub Actions, Flask.
+* **Testing:** Integrated stress testing (1000+ concurrent requests) to validate HPA elasticity.
+
+**6. Automated Fraud Detection Pipeline (Nestlé)**
+* **Description:** Engineered a pipeline scaling to **900,000 outlets**, identifying real-time fraudulent activities.
+* **Tech:** Python, SQL, GCP, Data Pipelines.
 * **Link:** `[Private Repository]`
 
-### 3. Automated Fraud Detection Pipeline (Nestlé)
-* **Description:** Designed and engineered an automated fraud detection pipeline scaling to **900,000 outlets**. This system significantly enhanced operational performance by identifying and flagging fraudulent activities in real-time.
-* **Tech:** Python, SQL, GCP, Data Pipelines
-* **Link:** `[Private Repository]`
+---
 
-### 4. NLP Classification of Ancient Inscriptions (IIT Madras)
-* **Description:** Developed a classification model to predict ancient inscription origins within a constrained NLP Kaggle environment.
-* **Result:** Ranked **6th of 122+** (Top 5%) in the competition.
-* **Tech:** Python, Scikit-learn, TensorFlow, NLP
+### 📊 Data Science & Business Intelligence
+**7. "Cost to Serve" BI Dashboard (Nestlé)**
+* **Description:** A Power BI dashboard identifying granular cost optimization opportunities, now implemented **Pan-India**.
+* **Tech:** Power BI, DAX, SQL.
 
+**8. ML Pipeline for Potential Recall Identification (Ford)**
+* **Description:** End-to-end pipeline for early identification of product recall events in the US market.
+* **Tech:** Python, Scikit-learn, ML Pipelines, CI/CD.
 
-### 5. "Cost to Serve" BI Dashboard (Nestlé)
-* **Description:** Built a "Cost to Serve" Power BI dashboard to identify granular cost optimization opportunities. This tool is now being **implemented Pan-India** to shape sales strategies.
-* **Tech:** Power BI, DAX, SQL
-* **Link:** `[Internal BI Tool]`
+**9. NLP Classification of Ancient Inscriptions (IIT Madras)**
+* **Result:** **Ranked 6th of 122+ (Top 5%)** in Kaggle competition.
+* **Tech:** Scikit-learn, TensorFlow, NLP.
 
-### 6. ML Project for Bank Deposit Adoption (IIT Madras)
-* **Description:** Created an efficient feature and modeling pipeline to predict bank term deposit adoption.
-* **Result:** Ranked in the **Top 2% of 1300+** students for the project.
-* **Tech:** Python, Scikit-learn, Feature Engineering
+---
 
+### 💻 Full-Stack Applications
+**10. SAVVY - AI Finance Learning for Kids**
+* **Description:** An engaging app teaching children financial literacy with an integrated Gemini chatbot and automated progress reporting.
+* **Tech:** Vue.js, Flask, Redis, Celery (Async tasks), MailHog.
+* **Link:** [View on GitHub](https://github.com/TanujaNair03/SAVVY)
 
-### 7. Finance Learning App for Children
-* **Description:** A web application to teach children about finance, featuring a simple Gemini-powered chatbot and asynchronous task handling.
-* **Tech:** Python, Flask, Vue.js, Redis, Celery, Google Gemini API
-* **Link:** **[View on GitHub]** (https://github.com/TanujaNair03/SAVVY)
+**11. Sorted - Home Service Booking App**
+* **Description:** Full-stack app connecting customers with service professionals featuring admin CRUD and rating systems.
+* **Tech:** Flask, Jinja2, JavaScript, SQLite.
+* **Link:** [View on GitHub](https://github.com/TanujaNair03/Sorted)
 
-### 8. Sorted - Home Service Booking App
-* **Description:** A full-stack web application for connecting customers with service professionals. Features a customer dashboard for booking, an admin panel for full CRUD management, and a rating system.
-* **Tech:** Python, Flask, Jinja2, HTML/CSS, JavaScript, Bootstrap, SQLite
-* **Link:** **[View on GitHub]** (https://github.com/TanujaNair03/Sorted)
+---
