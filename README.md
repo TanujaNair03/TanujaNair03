@@ -24,14 +24,14 @@ I am passionate about building end-to-end ML systems, deriving insights from lar
 
 ### 👁️ Computer Vision & AI
 **1. Cricket Player Tracking & Top-View Projection**
-* **Description:** An advanced CV pipeline to detect players, assign persistent IDs, and project 3D camera coordinates onto a 2D bird's-eye view field map.
+* **Description:** Advanced CV pipeline to detect players, assign persistent IDs, and project 3D camera coordinates onto a 2D bird's-eye view field map.
 * **Tech:** YOLOv11, ByteTrack, Homography Transformation, OpenCV, Supervision.
-* **Key Feature:** Custom fine-tuned model for specialized poses with a 7-point polygon mask for boundary filtering.
+* **Link:** [View on GitHub](https://github.com/TanujaNair03/Cricket-Player-Tracking-Projection)
 
 **2. VisionAssist - Navigation for the Visually Impaired**
 * **Description:** A real-time navigation aid providing auditory feedback about obstacles. Uses a combination of COCO and custom YouTube-sourced datasets.
 * **Tech:** YOLOv8, ByteTrack, gTTS (Google Text-to-Speech), OpenCV.
-* **Impact:** Real-time distance estimation and object tracking for enhanced spatial awareness.
+* **Link:** [View on GitHub](https://github.com/TanujaNair03/VisionAssist)
 
 **3. Gemini RAG Chatbot**
 * **Description:** A multi-mode Streamlit chatbot using Google Gemini for general conversation and Retrieval-Augmented Generation (RAG) for document-specific Q&A.
@@ -41,15 +41,15 @@ I am passionate about building end-to-end ML systems, deriving insights from lar
 ---
 
 ### ⚙️ MLOps & Scalable Systems
-**4. Heart Disease Prediction MLOps Pipeline**
-* **Description:** A production-ready healthcare pipeline focusing on **Fairness, Explainability, and Scalability**. 
-* **Tech:** FastAPI, Fairlearn (Bias auditing), SHAP (Explainability), GKE, Prometheus.
-* **Infrastructure:** Fully Dockerized with Horizontal Pod Autoscaling (HPA) and CI/CD via GitHub Actions.
+**4. Heart Disease Prediction MLOps**
+* **Description:** A production-ready healthcare pipeline focusing on **Fairness, Explainability, and Scalability**. Includes bias auditing and automated model monitoring.
+* **Tech:** FastAPI, Fairlearn, SHAP, GKE, Prometheus, Docker.
+* **Link:** [View on GitHub](https://github.com/TanujaNair03/Heart_Disease_Prediction-MLOps)
 
 **5. Iris Classification CI/CD Pipeline**
-* **Description:** A complete MLOps workflow demonstrating Continuous Integration and Deployment to Google Kubernetes Engine.
+* **Description:** A complete MLOps workflow demonstrating Continuous Integration and Deployment to Google Kubernetes Engine with automated stress testing.
 * **Tech:** GKE, Google Artifact Registry, DVC, GitHub Actions, Flask.
-* **Testing:** Integrated stress testing (1000+ concurrent requests) to validate HPA elasticity.
+* **Link:** [View on GitHub](https://github.com/TanujaNair03/mlops-course)
 
 **6. Automated Fraud Detection Pipeline (Nestlé)**
 * **Description:** Engineered a pipeline scaling to **900,000 outlets**, identifying real-time fraudulent activities.
@@ -75,8 +75,8 @@ I am passionate about building end-to-end ML systems, deriving insights from lar
 
 ### 💻 Full-Stack Applications
 **10. SAVVY - AI Finance Learning for Kids**
-* **Description:** An engaging app teaching children financial literacy with an integrated Gemini chatbot and automated progress reporting.
-* **Tech:** Vue.js, Flask, Redis, Celery (Async tasks), MailHog.
+* **Description:** An engaging app teaching children financial literacy with an integrated Gemini chatbot and automated progress reporting via Celery/Redis.
+* **Tech:** Vue.js, Flask, Redis, Celery, MailHog.
 * **Link:** [View on GitHub](https://github.com/TanujaNair03/SAVVY)
 
 **11. Sorted - Home Service Booking App**
