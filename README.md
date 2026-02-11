@@ -1,6 +1,6 @@
-# Hi, I'm Tanuja Nair 👋
+# Hi, I'm Tanuja Nair 
 
-I'm a **Data Scientist**, currently pursuing my B.S. in Data Science and Applications at **IIT Madras**. 
+I'm a **Data Scientist**, I completed my B.S. in Data Science and Applications at **IIT Madras** in December 2025. 
 
 I am passionate about building end-to-end ML systems, deriving insights from large-scale data, and creating data-driven products that solve real-world problems. My experience spans MLOps, computer vision, forecasting, and fraud detection.
 
