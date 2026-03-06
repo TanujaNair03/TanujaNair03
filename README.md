@@ -1,10 +1,8 @@
 <div align="center">
   <h1 align="center">Hi, I'm Tanuja Nair 👋</h1>
-  <h3>Data Scientist | Computer Vision | Product Builder</h3>
+ 
   
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+End-to-End+AI+Solutions;Deriving+Insights+from+Data;Crafting+User-Centric+Data+Products" alt="Typing SVG" />
-  </p>
+  
 
   <p align="center">
     <a href="https://linkedin.com/in/Tanuja_Nair">
