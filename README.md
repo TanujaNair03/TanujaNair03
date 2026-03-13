@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Tanuja Nair 👋</h1>
- 
+  
   
   
 
@@ -58,6 +58,7 @@ I recently graduated from **IIT Madras** (Dec 2025) with a B.S. in Data Science 
 #### 👁️ Computer Vision & GenAI
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[💬 Agentic CX Support Router](https://github.com/TanujaNair03/Agentic-CX-Support-Router)** | Enterprise customer support agent featuring LangGraph intent routing, RAG FAQs, and human-handoff escalation. | `LangGraph` `Gemini` `ChromaDB` `Streamlit` |
 | **[🏏 Cricket Player Tracking](https://github.com/TanujaNair03/Cricket-Player-Tracking-Projection)** | Advanced CV pipeline to detect players and project 3D coordinates onto a 2D field map. | `YOLOv11` `ByteTrack` `OpenCV` |
 | **[👓 VisionAssist](https://github.com/TanujaNair03/VisionAssist)** | Real-time navigation aid for the visually impaired with auditory feedback. | `YOLOv8` `gTTS` `OpenCV` |
 | **[🤖 Gemini RAG Chatbot](https://github.com/TanujaNair03/gemini-rag-chatbot)** | Multi-mode chatbot using Google Gemini & Retrieval-Augmented Generation (RAG). | `Gemini API` `Streamlit` `RAG` |
