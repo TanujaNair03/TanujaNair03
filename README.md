@@ -29,7 +29,7 @@
 
 ## 🧠 About Me
 
-I'm a **Machine Learning & AI Engineer** who graduated from **IIT Madras** (Dec 2025) with a B.Sc. in Data Science and Applications. I build end-to-end systems — from agentic AI pipelines and LLM-powered applications to production MLOps infrastructure on Kubernetes.
+I'm a **Machine Learning & AI Engineer** who graduated from **IIT Madras** (Dec 2025) with a B.S. in Data Science and Applications. I build end-to-end systems — from agentic AI pipelines and LLM-powered applications to production MLOps infrastructure on Kubernetes.
 
 - 🔭 Currently building: **Agentic AI systems** with LangGraph, LangChain & Gemini
 - 🌱 Deepening expertise in: **LLM fine-tuning, RAG architectures, and distributed ML**
