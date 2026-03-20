@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f59e0b,50:d97706,100:92400e&amp;height=120&amp;section=header&amp;text=Tanuja%20Nair&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn&amp;desc=B.S.%20Data%20Science%20%26%20Applications%20%E2%80%94%20IIT%20Madras&amp;descSize=14&amp;descAlignY=85&amp;descColor=fef3c7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f59e0b,50:d97706,100:92400e&amp;height=120&amp;section=header&amp;text=Tanuja%20Nair&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn" width="100%"/>
+
+<h3>B.S. Data Science & Applications — IIT Madras</h3>
 
 <br/>
 
