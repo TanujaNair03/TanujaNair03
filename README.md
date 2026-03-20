@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:d97706,100:92400e&height=120&section=header&text=Tanuja%20Nair&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=B.S.%20Data%20Science%20%26%20Applications%20%E2%80%94%20IIT%20Madras&descSize=14&descAlignY=85&descColor=fef3c7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f59e0b,50:d97706,100:92400e&amp;height=120&amp;section=header&amp;text=Tanuja%20Nair&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn&amp;desc=B.S.%20Data%20Science%20%26%20Applications%20%E2%80%94%20IIT%20Madras&amp;descSize=14&amp;descAlignY=85&amp;descColor=fef3c7" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=16&pause=1000&color=D97706&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+systems;LangGraph+%7C+LangChain+%7C+RAG+%7C+LLM+Fine-tuning;MLOps+%7C+GKE+%7C+FastAPI+%7C+Docker;Turning+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&amp;weight=700&amp;size=16&amp;pause=1000&amp;color=D97706&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+end-to-end+ML+systems;LangGraph+%7C+LangChain+%7C+RAG+%7C+LLM+Fine-tuning;MLOps+%7C+GKE+%7C+FastAPI+%7C+Docker;Turning+data+into+decisions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/Tanuja_Nair">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:tanuja.nair13@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
 </a>
 
 </div>
@@ -111,17 +111,17 @@ I recently graduated from **IIT Madras** (Dec 2025) with a B.S. in Data Science 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanujaNair03&show_icons=true&theme=solarized-light&hide_border=false&title_color=d97706&icon_color=d97706&text_color=1c1917&bg_color=fffbeb&rank_icon=github" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanujaNair03&amp;show_icons=true&amp;theme=solarized-light&amp;hide_border=false&amp;title_color=d97706&amp;icon_color=d97706&amp;text_color=1c1917&amp;bg_color=fffbeb&amp;rank_icon=github" height="160" alt="stats graph" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanujaNair03&layout=compact&theme=solarized-light&hide_border=false&title_color=d97706&text_color=1c1917&bg_color=fffbeb" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanujaNair03&amp;layout=compact&amp;theme=solarized-light&amp;hide_border=false&amp;title_color=d97706&amp;text_color=1c1917&amp;bg_color=fffbeb" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanujaNair03&theme=solarized-light&hide_border=false&background=fffbeb&ring=d97706&fire=d97706&currStreakLabel=d97706&dates=78716c&sideLabels=78716c" width="55%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanujaNair03&amp;theme=solarized-light&amp;hide_border=false&amp;background=fffbeb&amp;ring=d97706&amp;fire=d97706&amp;currStreakLabel=d97706&amp;dates=78716c&amp;sideLabels=78716c" width="55%"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92400e,50:d97706,100:f59e0b&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:92400e,50:d97706,100:f59e0b&amp;height=80&amp;section=footer" width="100%"/>
 </div>
