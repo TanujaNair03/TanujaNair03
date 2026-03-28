@@ -102,7 +102,7 @@ I’m especially interested in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TanujaNair03&show_icons=true&hide_border=true&title_color=D97706&icon_color=D97706" width="48%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=TanujaNair03&show_icons=true&hide_border=true&bg_color=transparent&title_color=D97706&icon_color=D97706" width="48%" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=TanujaNair03&hide_border=true&theme=default&ring=FACC15&fire=D97706" width="48%" alt="GitHub Streak" />
 
 </div>
