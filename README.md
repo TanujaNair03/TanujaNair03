@@ -1,31 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE68A,50:FACC15,100:EAB308&height=120&section=header&text=Tanuja%20Nair&fontSize=42&fontColor=3b2f1b&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FEF3C7,50:FDE68A,100:FACC15&height=140&section=header&text=Tanuja%20Nair&fontSize=42&fontColor=3b2f1b&fontAlignY=60&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<h3>Building end-to-end ML systems, agentic AI workflows, and data products</h3>
+# Tanuja Nair
 
-<br/>
+### Building practical AI systems, ML products, and decision-focused data solutions
 
-<a href="https://linkedin.com/in/Tanuja_Nair">
-  <img src="https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:tanuja.nair13@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D97706?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+<p>
+  <a href="https://linkedin.com/in/Tanuja_Nair">
+    <img src="https://img.shields.io/badge/LinkedIn-3b2f1b?style=for-the-badge&logo=linkedin&logoColor=FEFCE8" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:tanuja.nair13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D97706?style=for-the-badge&logo=gmail&logoColor=FEFCE8" alt="Gmail" />
+  </a>
+</p>
 
 </div>
 
-<br />
+---
 
 ## 👩‍💻 About Me
-I recently graduated from **IIT Madras** (Dec 2025) with a B.S. in Data Science and Applications. I am passionate about building end-to-end ML systems, deriving insights from large-scale data, and creating data-driven products that solve real-world problems.
+
+I recently graduated from **IIT Madras** with a B.S. in Data Science and Applications. I enjoy building end-to-end ML systems, agentic AI workflows, analytics products, and data-driven tools that solve real business problems.
+
+I’m especially interested in:
+- Agentic AI and LLM applications
+- Applied machine learning and computer vision
+- MLOps and deployment workflows
+- Decision-focused analytics and business intelligence
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -34,7 +43,7 @@ I recently graduated from **IIT Madras** (Dec 2025) with a B.S. in Data Science 
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,r,git" /> |
 | **ML & Vision** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" /> |
 | **Data & Cloud** | <img src="https://skillicons.dev/icons?i=gcp,azure,mysql,postgres,mongodb,redis" /> |
-| **Backend & Apps** | <img src="https://img.shields.io/badge/FastAPI-FACC15?style=for-the-badge&logo=fastapi&logoColor=111827" /> <img src="https://img.shields.io/badge/Flask-FDE68A?style=for-the-badge&logo=flask&logoColor=111827" /> <img src="https://img.shields.io/badge/Vue-EAB308?style=for-the-badge&logo=vuedotjs&logoColor=111827" /> <img src="https://img.shields.io/badge/Streamlit-FCD34D?style=for-the-badge&logo=streamlit&logoColor=111827" /> <img src="https://img.shields.io/badge/Docker-FBBF24?style=for-the-badge&logo=docker&logoColor=111827" /> <img src="https://img.shields.io/badge/Kubernetes-F59E0B?style=for-the-badge&logo=kubernetes&logoColor=111827" /> |
+| **Backend & Apps** | <img src="https://img.shields.io/badge/FastAPI-FEF3C7?style=for-the-badge&logo=fastapi&logoColor=3b2f1b" /> <img src="https://img.shields.io/badge/Flask-FDE68A?style=for-the-badge&logo=flask&logoColor=3b2f1b" /> <img src="https://img.shields.io/badge/Vue-FCD34D?style=for-the-badge&logo=vuedotjs&logoColor=3b2f1b" /> <img src="https://img.shields.io/badge/Streamlit-FBBF24?style=for-the-badge&logo=streamlit&logoColor=3b2f1b" /> <img src="https://img.shields.io/badge/Docker-F59E0B?style=for-the-badge&logo=docker&logoColor=FEFCE8" /> <img src="https://img.shields.io/badge/Kubernetes-D97706?style=for-the-badge&logo=kubernetes&logoColor=FEFCE8" /> |
 
 </div>
 
@@ -90,22 +99,24 @@ I recently graduated from **IIT Madras** (Dec 2025) with a B.S. in Data Science 
 
 ---
 
-### 📈 GitHub Snapshot
+## 📈 GitHub Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TanujaNair03&show_icons=true&theme=default&hide_border=true&title_color=D97706&icon_color=EAB308&text_color=44403C&bg_color=FFFDF7&cache_seconds=1800" height="160" alt="stats graph" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanujaNair03&layout=compact&theme=default&hide_border=true&title_color=D97706&text_color=44403C&bg_color=FFFDF7&cache_seconds=1800" height="160" alt="languages graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanujaNair03&bg_color=fffdf7&color=92400e&line=eab308&point=f59e0b&area=true&hide_border=true" width="95%" alt="activity graph" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TanujaNair03&theme=default&hide_border=true&background=FFFDF7&ring=EAB308&fire=D97706&currStreakLabel=D97706&sideLabels=78716C&dates=78716C" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=TanujaNair03&theme=default&hide_border=true&background=FFFDF7&ring=EAB308&fire=D97706&currStreakLabel=92400E&sideLabels=78716C&dates=78716C" width="60%" alt="streak stats" />
+
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAB308,50:FACC15,100:FDE68A&height=80&section=footer" width="100%"/>
+  <sub>Open to roles and collaborations in AI engineering, machine learning, applied data science, and intelligent systems.</sub>
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:FDE68A,100:FEF3C7&height=90&section=footer" width="100%"/>
