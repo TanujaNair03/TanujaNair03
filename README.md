@@ -10,11 +10,11 @@
 
 <p>
   <a href="https://linkedin.com/in/Tanuja_Nair">
-    <img src="https://img.shields.io/badge/LinkedIn-3b2f1b?style=for-the-badge&logo=linkedin&logoColor=FEFCE8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:tanuja.nair13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D97706?style=for-the-badge&logo=gmail&logoColor=FEFCE8" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ I’m especially interested in:
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,r,git" /> |
 | **ML & Vision** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" /> |
 | **Data & Cloud** | <img src="https://skillicons.dev/icons?i=gcp,azure,mysql,postgres,mongodb,redis" /> |
-| **Backend & Apps** | <img src="https://img.shields.io/badge/FastAPI-FEF3C7?style=for-the-badge&logo=fastapi&logoColor=3b2f1b" /> <img src="https://img.shields.io/badge/Flask-FDE68A?style=for-the-badge&logo=flask&logoColor=3b2f1b" /> <img src="https://img.shields.io/badge/Vue-FCD34D?style=for-the-badge&logo=vuedotjs&logoColor=3b2f1b" /> <img src="https://img.shields.io/badge/Streamlit-FBBF24?style=for-the-badge&logo=streamlit&logoColor=3b2f1b" /> <img src="https://img.shields.io/badge/Docker-F59E0B?style=for-the-badge&logo=docker&logoColor=FEFCE8" /> <img src="https://img.shields.io/badge/Kubernetes-D97706?style=for-the-badge&logo=kubernetes&logoColor=FEFCE8" /> |
+| **Backend & Apps** | <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> |
 
 </div>
 
@@ -103,11 +103,8 @@ I’m especially interested in:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanujaNair03&bg_color=fffdf7&color=92400e&line=eab308&point=f59e0b&area=true&hide_border=true" width="95%" alt="activity graph" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=TanujaNair03&theme=default&hide_border=true&background=FFFDF7&ring=EAB308&fire=D97706&currStreakLabel=92400E&sideLabels=78716C&dates=78716C" width="60%" alt="streak stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=TanujaNair03&show_icons=true&hide_border=true&title_color=D97706&icon_color=D97706" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=TanujaNair03&hide_border=true&theme=default&ring=FACC15&fire=D97706" width="48%" alt="GitHub Streak" />
 
 </div>
 
