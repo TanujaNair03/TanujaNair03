@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FEF3C7,50:FDE68A,100:FACC15&height=140&section=header&text=Tanuja%20Nair&fontSize=42&fontColor=3b2f1b&fontAlignY=60&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -116,4 +115,3 @@ I’m especially interested in:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,50:FDE68A,100:FEF3C7&height=90&section=footer" width="100%"/>
