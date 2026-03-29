@@ -3,9 +3,9 @@
 
 <br/>
 
-# Tanuja Nair
+# Hi, I'm Tanuja :)
 
-### Building practical AI systems, ML products, and decision-focused data solutions
+### I like building practical AI systems, ML products, and decision-focused data solutions
 
 <p>
   <a href="https://linkedin.com/in/Tanuja_Nair">
