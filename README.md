@@ -3,7 +3,7 @@
 
 <br/>
 
-# Hi, I'm Tanuja :)
+# Hi, I'm Tanuja 
 
 ### I like building practical AI systems, ML products, and decision-focused data solutions
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I recently graduated from **IIT Madras** with a B.S. in Data Science and Applications. I enjoy building end-to-end ML systems, agentic AI workflows, analytics products, and data-driven tools that solve real business problems.
 
